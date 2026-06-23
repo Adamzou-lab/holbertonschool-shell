@@ -25,4 +25,4 @@ cd basics
 
 ## Auteur
 
-Adam (Adamzou-lab), Holberton School.
+Adam (Adamzou-lab).
